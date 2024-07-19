@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Our Product</h1>
+            <p>The best solution for your needs</p>
+            <a href="#cta" class="btn">Get Started</a>
+        </div>
+    </header>
+
+    <section id="features">
+        <div class="container">
+            <h2>Features</h2>
+            <div class="feature">
+                <h3>Feature 1</h3>
+                <p>Description of feature 1.</p>
+            </div>
+            <div class="feature">
+                <h3>Feature 2</h3>
+                <p>Description of feature 2.</p>
+            </div>
+            <div class="feature">
+                <h3>Feature 3</h3>
+                <p>Description of feature 3.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonials">
+        <div class="container">
+            <h2>Testimonials</h2>
+            <div class="testimonial">
+                <p>"This product changed my life!"</p>
+                <p>- Satisfied Customer</p>
+            </div>
+            <div class="testimonial">
+                <p>"Absolutely fantastic!"</p>
+                <p>- Happy Client</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="cta">
+        <div class="container">
+            <h2>Ready to Get Started?</h2>
+            <a href="#" class="btn">Sign Up Now</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Company Name. All rights reserved.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
